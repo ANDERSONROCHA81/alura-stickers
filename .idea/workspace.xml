@@ -5,13 +5,207 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7ff01a-433d-4dbb-a741-c0077ee7146d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Angry Men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Years a Slave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2001: A Space Odyssey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 Idiots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A Beautiful Mind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A Clockwork Orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A Separation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aliens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/All About Eve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amadeus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/American Beauty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/American History X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amélie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apocalypse Now.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avengers: Endgame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avengers: Infinity War.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Back to the Future.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Barry Lyndon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Batman Begins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Before Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ben-Hur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bicycle Thieves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blade Runner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Braveheart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capernaum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casablanca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catch Me If You Can.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Children of Heaven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinatown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Paradiso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Citizen Kane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/City Lights.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/City of God.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Come and See.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dangal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dial M for Murder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Die Hard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django Unchained.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Double Indemnity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Downfall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eternal Sunshine of the Spotless Mind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Everything Everywhere All at Once.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fargo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fight Club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Finding Nemo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For a Few Dollars More.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forrest Gump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Full Metal Jacket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gladiator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gone Girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gone with the Wind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Good Will Hunting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goodfellas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gran Torino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grave of the Fireflies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Green Book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacksaw Ridge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamilton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hara-Kiri.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Harry Potter and the Deathly Hallows: Part 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/High and Low.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howl's Moving Castle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ikiru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In the Name of the Father.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Incendies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indiana Jones and the Last Crusade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indiana Jones and the Raiders of the Lost Ark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inglourious Basterds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inside Out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interstellar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/It's a Wonderful Life.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judgment at Nuremberg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jurassic Park.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kill Bill: Vol. 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L.A. Confidential.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lawrence of Arabia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Life Is Beautiful.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Like Stars on Earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lock, Stock and Two Smoking Barrels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Léon: The Professional.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memories of Murder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metropolis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Million Dollar Baby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern Times.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monty Python and the Holy Grail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mr. Smith Goes to Washington.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My Neighbor Totoro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/No Country for Old Men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/North by Northwest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oldboy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/On the Waterfront.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Once Upon a Time in America.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Once Upon a Time in the West.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One Flew Over the Cuckoo's Nest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pan's Labyrinth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parasite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paths of Glory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Princess Mononoke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prisoners.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Psycho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pulp Fiction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raging Bull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ran.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rashomon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rear Window.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Requiem for a Dream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reservoir Dogs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Room.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saving Private Ryan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scarface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schindler's List.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Se7en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seven Samurai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sherlock Jr..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shutter Island.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singin' in the Rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snatch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some Like It Hot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-Man: Into the Spider-Verse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-Man: No Way Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spirited Away.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Star Wars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Star Wars: Episode V - The Empire Strikes Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Star Wars: Episode VI - Return of the Jedi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sunset Blvd..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Taxi Driver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terminator 2: Judgment Day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Apartment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Boat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Bridge on the River Kwai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Dark Knight Rises.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Dark Knight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Deer Hunter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Departed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Elephant Man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Father.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The General.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Godfather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Godfather: Part II.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Gold Rush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Good, the Bad and the Ugly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Grand Budapest Hotel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Great Dictator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Great Escape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Green Mile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Hunt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Intouchables.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Kid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Lion King.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Lives of Others.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Lord of the Rings: The Fellowship of the Ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Lord of the Rings: The Return of the King.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Lord of the Rings: The Two Towers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Pianist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Prestige.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Secret in Their Eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Shawshank Redemption.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Shining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Silence of the Lambs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Sixth Sense.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Sting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Thing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Third Man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Treasure of the Sierra Madre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Truman Show.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Usual Suspects.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Wages of Fear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Wolf of Wall Street.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/There Will Be Blood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Three Billboards Outside Ebbing, Missouri.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To Kill a Mockingbird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toy Story 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toy Story.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trainspotting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unforgiven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V for Vendetta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vertigo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALL·E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warrior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Whiplash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wild Strawberries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Witness for the Prosecution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yojimbo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Your Name..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saida/figurinha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeradoraDeFigurinhas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +226,32 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CDZZuA8HXuOe0nIGaMK73hJeIG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="alura-stickers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeradoraDeFigurinhas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeradoraDeFigurinhas" />
       <module name="alura-stickers" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,6 +260,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.GeradoraDeFigurinhas" />
       </list>
     </recent_temporary>
   </component>
@@ -66,7 +272,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658339178264</updated>
-      <workItem from="1658339181254" duration="9663000" />
+      <workItem from="1658339181254" duration="10278000" />
+      <workItem from="1658427686575" duration="9180000" />
     </task>
     <servers />
   </component>
@@ -83,5 +290,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
